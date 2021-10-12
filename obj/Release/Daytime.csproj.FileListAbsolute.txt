@@ -1,0 +1,9 @@
+D:\Work\Docs\Visual Studio Coding\Daytime\bin\Release\Daytime.exe
+D:\Work\Docs\Visual Studio Coding\Daytime\bin\Release\Daytime.pdb
+D:\Work\Docs\Visual Studio Coding\Daytime\obj\Release\Daytime.Form1.resources
+D:\Work\Docs\Visual Studio Coding\Daytime\obj\Release\Daytime.Properties.Resources.resources
+D:\Work\Docs\Visual Studio Coding\Daytime\obj\Release\Daytime.csproj.GenerateResource.cache
+D:\Work\Docs\Visual Studio Coding\Daytime\obj\Release\Daytime.csproj.CoreCompileInputs.cache
+D:\Work\Docs\Visual Studio Coding\Daytime\obj\Release\Daytime.exe
+D:\Work\Docs\Visual Studio Coding\Daytime\obj\Release\Daytime.pdb
+D:\Work\Docs\Visual Studio Coding\Daytime\obj\Release\Daytime.csprojAssemblyReference.cache
